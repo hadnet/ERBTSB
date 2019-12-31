@@ -12,7 +12,7 @@
   <a href="https://facebook.github.io/react/"><img src="./internals/img/react-padded-90.png" /></a>
   <a href="https://webpack.github.io/"><img src="./internals/img/webpack-padded-90.png" /></a>
   <a href="https://reach.tech/router"><img src="./internals/img/RR.png" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="./internals/img/flow-padded-90.png" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="./internals/img/ts-padded-90.png" /></a>
   <a href="http://eslint.org/"><img src="./internals/img/eslint-padded-90.png" /></a>
   <a href="https://facebook.github.io/jest/"><img src="./internals/img/jest-padded-90.png" /></a>
   <a href="https://yarnpkg.com/"><img src="./internals/img/yarn-padded-90.png" /></a>
