@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "baseUrl": "./",
+    "rootDir": "./",
+    "jsx": "react",
+    "module": "es2015",
+    "moduleResolution": "node",
+    "noUnusedLocals": true,
+    "pretty": true,
+    "sourceMap": true,
+    "resolveJsonModule": true,
+    "lib": ["es2015", "dom"],
+    "allowSyntheticDefaultImports": true,
+    "strictFunctionTypes": false
+  },
+  "include": [
+    "app/**/*.ts",
+    "app/**/*.tsx",
+    "test/**/*.ts",
+    "test/**/*.tsx",
+  ],
+  "exclude": ["node_modules", "**/node_modules/*"]
+}
