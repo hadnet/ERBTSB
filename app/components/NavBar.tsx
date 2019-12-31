@@ -21,7 +21,7 @@ export class NavBar extends React.PureComponent<IProps> {
     return (
       <Navbar className="bp3-dark">
         <NavbarGroup align={ Alignment.LEFT }>
-          <NavbarHeading>É o App da Manu</NavbarHeading>
+          <NavbarHeading>Blueprint</NavbarHeading>
           <NavbarDivider />
           <Link to="/" className="bp3-button bp3-minimal bp3-icon-home">
             Home
