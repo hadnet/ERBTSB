@@ -9,7 +9,7 @@
  * `./app/main.prod.js` using webpack. This gives us some performance wins.
  *
  */
-import { app, BrowserWindow } from 'electron';
+import { app, BrowserWindow, nativeTheme } from 'electron';
 import { autoUpdater } from 'electron-updater';
 import log from 'electron-log';
 import MenuBuilder from './menu';
@@ -47,6 +47,7 @@ const installExtensions = async () => {
 };
 
 const createWindow = () => {
+  nativeTheme.themeSource = 'dark';
   mainWindow = new BrowserWindow({
     show: false,
     width: 1024,
