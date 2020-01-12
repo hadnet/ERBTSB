@@ -165,6 +165,7 @@ Become a sponsor and get your logo on our README on Github with a link to your s
 - [Amila Welihinda](https://github.com/amilajack)
 - [C. T. Lin](https://github.com/chentsulin)
 - [Jhen-Jie Hong](https://github.com/jhen0409)
+- [Hadnet](https://github.com/hadnet)
 
 ## License
 
