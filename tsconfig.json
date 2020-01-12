@@ -14,11 +14,6 @@
     "allowSyntheticDefaultImports": true,
     "strictFunctionTypes": false
   },
-  "include": [
-    "app/**/*.ts",
-    "app/**/*.tsx",
-    "test/**/*.ts",
-    "test/**/*.tsx",
-  ],
+  "include": ["app/**/*.ts", "app/**/*.tsx", "test/**/*.ts", "test/**/*.tsx"],
   "exclude": ["node_modules", "**/node_modules/*"]
 }

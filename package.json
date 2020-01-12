@@ -35,7 +35,7 @@
     "test-watch": "yarn test --watch"
   },
   "lint-staged": {
-    "*.{js,jsx}": [
+    "*.{ts,tsx}": [
       "cross-env NODE_ENV=development eslint --cache --format=pretty",
       "git add"
     ],
@@ -186,6 +186,7 @@
     "@babel/preset-react": "^7.7.4",
     "@babel/preset-typescript": "^7.7.7",
     "@babel/register": "^7.7.4",
+    "@types/reach__router": "^1.2.6",
     "@types/react": "^16.9.17",
     "@types/react-dom": "^16.9.4",
     "@typescript-eslint/eslint-plugin": "^2.12.0",
@@ -265,7 +266,6 @@
     "@fortawesome/fontawesome-free": "^5.12.0",
     "@hot-loader/react-dom": "^16.11.0",
     "@reach/router": "^1.2.1",
-    "@types/reach__router": "^1.2.6",
     "connected-react-router": "^6.6.1",
     "core-js": "^3.5.0",
     "devtron": "^1.4.0",
