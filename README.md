@@ -40,7 +40,7 @@
 
 <div align="center">
 
-![Electron Boilerplate Demo](https://cloud.githubusercontent.com/assets/3382565/10557547/b1f07a4e-74e3-11e5-8d27-79ab6947d429.gif)
+![ERBTSB](https://user-images.githubusercontent.com/13828833/72215451-72711e00-34f1-11ea-85ca-ac4b5c41afd6.gif)
 
 </div>
 
