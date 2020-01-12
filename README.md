@@ -28,7 +28,7 @@
 [![Appveyor Build Status][appveyor-image]][appveyor-url]
 [![Dependency Status][david-image]][david-url]
 [![DevDependency Status][david-dev-image]][david-dev-url]
-[![Github Tag][github-tag-image]][github-tag-url]
+![GitHub package.json version](https://img.shields.io/github/package-json/v/hadnet/ERBTSB)
 
 [![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/electron-react-blpt)
 [![OpenCollective](https://opencollective.com/electron-react-boilerplate/backers/badge.svg)](#backers)
@@ -171,8 +171,6 @@ Become a sponsor and get your logo on our README on Github with a link to your s
 MIT © [Electron React Boilerplate](https://github.com/electron-react-boilerplate)
 
 [npm-image]: https://img.shields.io/npm/v/electron-react-boilerplate.svg?style=flat-square
-[github-tag-image]: https://img.shields.io/github/tag/electron-react-boilerplate/electron-react-boilerplate.svg?label=version
-[github-tag-url]: https://github.com/electron-react-boilerplate/electron-react-boilerplate/releases/latest
 [travis-image]: https://travis-ci.com/electron-react-boilerplate/electron-react-boilerplate.svg?branch=master
 [travis-url]: https://travis-ci.com/electron-react-boilerplate/electron-react-boilerplate
 [appveyor-image]: https://ci.appveyor.com/api/projects/status/4m972s6e4nf52hx6/branch/master?svg=true
