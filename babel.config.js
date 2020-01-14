@@ -30,6 +30,9 @@ module.exports = api => {
       [require('@babel/preset-react'), { development }]
     ],
     plugins: [
+      // Better debugging with Styled-components
+      [require('babel-plugin-styled-components'), {displayName: true, fileName: false}],
+      
       // Stage 0
       require('@babel/plugin-proposal-function-bind'),
 
